@@ -22,7 +22,7 @@ Up to now, the lake and island dataset are available. We will continue to organi
 
 ## Download
 
-[BaiduYun](https://pan.baidu.com/s/1gTdkkOA6-oNvHKj7ZV2DxA) (Key: b557)
+[BaiduYun](https://pan.baidu.com/s/1gTdkkOA6-oNvHKj7ZV2DxA) (Code: b557)
 
 ## References
 
