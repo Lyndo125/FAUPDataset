@@ -18,7 +18,7 @@ The dataset is selected from AID [2] and NWPU-RESISC45 [3]. Among them, there ar
 4. Island dataset  
 The dataset is selected from NWPU-RESISC45 and LEVIR [4]. Among them, there are 700 positive samples, which are lake data, and 613 negative samples, selected from data of sea.
 
-Up to now, the lake and island dataset are available. We will continue to organize the remaining portions and upload them gradually.
+Up to now, the lake and island datasets are available. We will continue to organize the remaining portions and upload them gradually.
 
 ## Download
 
